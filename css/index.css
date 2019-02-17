@@ -241,7 +241,7 @@ img {
 }
 .paragraph {
     color: #2c2c2c;
-    padding: 5vw 5vw 5vw 0;
+    padding: 5vw  5vw 5vw 0;
     float: left;
     width : 80%;
 }
@@ -409,6 +409,9 @@ img {
 	}
 	.work_item .image{
 		width : 60%;
+	}
+	.paragraph{
+		width : 100%;
 	}
 }
 
